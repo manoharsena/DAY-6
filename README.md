@@ -7,6 +7,7 @@
 | Write a “person” class to hold all the details.   | [Solution](https://github.com/manoharsena/DAY-6/blob/master/person.js)  |
 | write a class to calculate the Uber price.   | [Solution](https://github.com/manoharsena/DAY-6/blob/master/uber.js)  |
 
+
 <br>
 
 ![Output Screenshot](<Output Screenshot.JPG>)
